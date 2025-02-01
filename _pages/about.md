@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Papers"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Simon Cooper's academic website.
-
 ## Preprints
 
+
 ## Publications
+Tautological Rings of Hilbert Modular Varieties
+Math. Z. 308(13), 2024
