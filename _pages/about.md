@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at Stockholm University, broadly working in Arithmetic Geometry. My current research focuses on intersection theory on Shimura varieties in positive characteristic and the geometry of Zip period maps. 
+I am currently a postdoctoral researcher at the Stockholm University Mathematics Institute, working broadly in Arithmetic Geometry. My current research focuses on intersection theory on Shimura varieties in positive characteristic and the geometry of Zip period maps. 
 
 ## Publications
 ### Tautological Rings of Hilbert Modular Varieties
