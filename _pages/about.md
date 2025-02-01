@@ -21,3 +21,4 @@ Preprint, 2024
 ## Publications
 ### Tautological Rings of Hilbert Modular Varieties
 Math. Z. 308(13), 2024
+<a href="https://link.springer.com/article/10.1007/s00209-024-03560-2">Available here</a>
