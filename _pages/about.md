@@ -26,8 +26,8 @@ Preprint, 2024
 
 <a href="https://arxiv.org/abs/2410.01547v1">Arxiv</a>
 
-### Hodge-Chern Classes and Strata-Effectivity in Tautological Rings
-Preprint, 2024 (joint work with Wushi Goldring)
+### (joint with Wushi Goldring) Hodge-Chern Classes and Strata-Effectivity in Tautological Rings
+Preprint, 2024
 
 <a href="https://arxiv.org/abs/2404.05727">Arxiv</a>
 
