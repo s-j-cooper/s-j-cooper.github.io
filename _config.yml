@@ -21,7 +21,7 @@ repository               : "s-j-cooper.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  "headshot.JPG"
+  avatar           :  "mugshot.JPG"
   name             : "Simon Cooper"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc in Mathematics"
