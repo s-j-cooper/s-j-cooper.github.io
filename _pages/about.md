@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at Stockholm University, working broadly in Arithmetic Geometry. My current research focuses on intersection theory on Shimura varieties in positive characteristic and the geometry of Zip period maps. Contact details: cooper.simonjohn(at)gmail.com.
+I am currently a postdoctoral researcher at Stockholm University, working broadly in Arithmetic Geometry. My current research focuses on intersection theory on Shimura varieties in positive characteristic and the geometry of Zip period maps. Contact details: cooper.simonjohn(at)gmail(dot)com.
 
 ## Publications
 ### Tautological Rings of Hilbert Modular Varieties
