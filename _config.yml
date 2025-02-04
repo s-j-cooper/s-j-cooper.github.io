@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Simon Cooper"
 title_separator          : "-"
 name                     : &name "Simon Cooper"
-description              : &description "personal description"
+description              :  &description "personal description"
 url                      : https://s-j-cooper.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "s-j-cooper.github.io"
@@ -22,11 +22,11 @@ repository               : "s-j-cooper.github.io"
 author:
   # Biographic information
   avatar           :  "mugshot.JPG"
-  name             : "Simon Cooper"
+  name             : # "Simon Cooper"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc in Mathematics"
-  location         : "Stockholm"
-  employer         : "Stockholm University"
+  bio              : # "Postdoc in Mathematics"
+  location         :  "Stockholm"
+  employer         : # "Stockholm University"
   uri              : # URL
   email            : # "cooper.simonjohn(at)gmail.com" 
 
@@ -117,7 +117,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -301,7 +301,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+# - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -310,7 +310,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+ # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
