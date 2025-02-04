@@ -12,7 +12,7 @@ title                    : "Simon Cooper"
 title_separator          : "-"
 name                     : &name "Simon Cooper"
 description              : &description "personal description"
-url                      : https://s-j-cooper.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sjcooper.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "s-j-cooper.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Stockholm"
   employer         : "Stockholm University"
   uri              : # URL
-  email            : # "cooper.simonjohn(at)gmail.com" 
+  email            :  "cooper.simonjohn(at)gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
