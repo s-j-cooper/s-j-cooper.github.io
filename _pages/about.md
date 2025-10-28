@@ -15,11 +15,11 @@ Math. Z. 308(13), 2024
 
 <a href="https://link.springer.com/article/10.1007/s00209-024-03560-2">Available here</a>
 
-## Preprints
 ### Pushforward of Siegel Flag Varieties in the Chow Ring
-Submitted, 2024
+J. Algebra 685 (2026), 523–535, 2026 (to appear in print)
 
-<a href="https://arxiv.org/abs/2409.14406">Arxiv</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S002186932500465X">Available here</a>
+## Preprints
 
 ### Grothendieck Group of the Stack of G-Zips
 Preprint, 2024
