@@ -25,8 +25,8 @@ author:
   name             : # "Simon Cooper"
   pronouns         : # example: "she/her"  
   bio              : # "Postdoc in Mathematics"
-  location         :  "Stockholm"
-  employer         : # "Stockholm University"
+  location         :  ""
+  employer         : # "KAW"
   uri              : # URL
   email            : # "cooper.simonjohn(at)gmail.com" 
 
