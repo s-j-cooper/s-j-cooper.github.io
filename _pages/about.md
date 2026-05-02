@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at Stockholm University, working broadly in Arithmetic Geometry. My current research focuses on intersection theory on Shimura varieties in positive characteristic and the geometry of Zip period maps. Contact details: cooper.simonjohn(at)gmail(dot)com.
+I am currently a Wallenberg research fellow based at King's College London, hosted by Fred Diamond. Before that I did my PhD at Stockholm University under the supervision of Wushi Goldring. I work broadly in Arithmetic Geometry. My current research focuses on intersection theory on Shimura varieties in positive characteristic and the geometry of Zip period maps. Contact details: cooper.simonjohn(at)gmail(dot)com.
 
 ## Publications
 ### Tautological Rings of Hilbert Modular Varieties
@@ -16,7 +16,7 @@ Math. Z. 308(13), 2024
 <a href="https://link.springer.com/article/10.1007/s00209-024-03560-2">Available here</a>
 
 ### Pushforward of Siegel Flag Varieties in the Chow Ring
-J. Algebra 685 (2026), 523–535, 2026 (to appear in print)
+J. Algebra 685 (2026), 523–535, 2026
 
 <a href="https://www.sciencedirect.com/science/article/pii/S002186932500465X">Available here</a>
 ## Preprints
